@@ -5,6 +5,7 @@ This was my **VERY FIRST, CUSTOM & BASIC SETUP** of *React, TypeScript and Webpa
 
 ## Available scripts
 `npm start` - Starts webpack dev server.
+<br/>
 `npm run build` - Creates production build output.
 
 ---
