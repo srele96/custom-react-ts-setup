@@ -1,4 +1,4 @@
-# My VERY FIRST MESSY React, Webpack, TS CUSTOM SETUP.
+# Custom React setup *(my very first & messy)*.
 This was my **VERY FIRST, CUSTOM & BASIC SETUP** of *React, TypeScript and Webpack*.
 
 ---
